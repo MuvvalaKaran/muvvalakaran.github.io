@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Karan Muvvala</title>
+    <link>https://muvvalakaran.github.io/talks/</link>
+      <atom:link href="https://muvvalakaran.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://muvvalakaran.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Talks</title>
+      <link>https://muvvalakaran.github.io/talks/</link>
+    </image>
+    
+    <item>
+      <title>Regret games for manipulation reactive synthesis</title>
+      <link>https://muvvalakaran.github.io/talks/lapis_presentation/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/talks/lapis_presentation/</guid>
+      <description>&lt;p&gt;From factories to households, robots are rapidly leaving behind their robot-centric environments and entering our society. To be successful in our human-centric world, they must develop the ability to interact with unstructured environments. This includes performing complex tasks in face of changes in the environment and seeking collaborations with humans when possible. Achieving such capabilities is challenging, especially in the robotic manipulation domain, where tasks are complex and crucially require interaction with humans. In this talk, we propose a regret-based reactive synthesis framework to address some of these challenges. Intuitively, regret is a qualitative measure of the current action. If the action is optimal to the human’s response in hindsight, its regret is zero; otherwise, it is a positive value. Our aim is to synthesize strategies that minimize robot&amp;rsquo;s regret. This approach, unlike existing work, allows the robot not to necessarily view the human as an adversary, and hence, enabling it to explore cooperation with humans to accomplish a given task. Our focus is specifically on robotic manipulators with temporal logic task specifications in shared workspaces with humans. We show theoretical guarantees on task completion through reachability analysis by modeling the interaction as a two-player deterministic finite automaton game. We analyze various notions of regret, provide algorithms for their computations, and reason about the emergent behaviors. We illustrate the strengths of this framework through several case studies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Quantitative Reactive Synthesis for Manipulators via Games</title>
+      <link>https://muvvalakaran.github.io/talks/cu_gearrs/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/talks/cu_gearrs/</guid>
+      <description>&lt;p&gt;Manipulators are becoming ubiquitous from industries to commercial applications. As such these robots are either manually operated or autonomous in highly restricted and well-defined environments and are extremely susceptible to changes in the environment - due to human intervention or any other external factor. This study focuses on developing a strategy for the robot to achieve a complex task. The synthesized strategy generates controllers for the robot in reaction to human interventions that cause changes in the environment . This
+strategy also accounts for the resource constraints of the robot such as time and energy. Using methods derived from formal methods and games we can then define quantitative safety-critical guarantees with optimal strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

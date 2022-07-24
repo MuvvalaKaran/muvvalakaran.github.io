@@ -33,11 +33,68 @@
     </item>
     
     <item>
-      <title>An extended abstract submitted at RSS 2022 Workshop on Risk-aware Decision Making;</title>
+      <title>An extended abstract got accepted at RSS 2022 Workshop on Risk-aware Decision Making;</title>
       <link>https://muvvalakaran.github.io/post/2022-06-01_rss22_worshop/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://muvvalakaran.github.io/post/2022-06-01_rss22_worshop/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>RSS Paper</title>
+      <link>https://muvvalakaran.github.io/workshop_publication/rss_20/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/workshop_publication/rss_20/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Safety Guarantees for Neural Network Dynamic Systems via Stochastic Barrier Functions </title>
+      <link>https://muvvalakaran.github.io/publication/nips_22_safe_autonomy_w_cbfs/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/publication/nips_22_safe_autonomy_w_cbfs/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Collaborate: Regret-based Reactive Synthesis for Robotic Manipulation</title>
+      <link>https://muvvalakaran.github.io/publication/icra_22_regret/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/publication/icra_22_regret/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -54,6 +111,25 @@
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       <guid>https://muvvalakaran.github.io/post/2022-04-01-icra22_travel_grant/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Expert-Informed Autonomous Science Planning for In-situ Observations and Discoveries</title>
+      <link>https://muvvalakaran.github.io/publication/coldtech_ieee_aero_2022/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/publication/coldtech_ieee_aero_2022/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -85,6 +161,15 @@
     </item>
     
     <item>
+      <title>Regret games for manipulation reactive synthesis</title>
+      <link>https://muvvalakaran.github.io/talks/lapis_presentation/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/talks/lapis_presentation/</guid>
+      <description>&lt;p&gt;From factories to households, robots are rapidly leaving behind their robot-centric environments and entering our society. To be successful in our human-centric world, they must develop the ability to interact with unstructured environments. This includes performing complex tasks in face of changes in the environment and seeking collaborations with humans when possible. Achieving such capabilities is challenging, especially in the robotic manipulation domain, where tasks are complex and crucially require interaction with humans. In this talk, we propose a regret-based reactive synthesis framework to address some of these challenges. Intuitively, regret is a qualitative measure of the current action. If the action is optimal to the human’s response in hindsight, its regret is zero; otherwise, it is a positive value. Our aim is to synthesize strategies that minimize robot&amp;rsquo;s regret. This approach, unlike existing work, allows the robot not to necessarily view the human as an adversary, and hence, enabling it to explore cooperation with humans to accomplish a given task. Our focus is specifically on robotic manipulators with temporal logic task specifications in shared workspaces with humans. We show theoretical guarantees on task completion through reachability analysis by modeling the interaction as a two-player deterministic finite automaton game. We analyze various notions of regret, provide algorithms for their computations, and reason about the emergent behaviors. We illustrate the strengths of this framework through several case studies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An extended abstract got accepted at RSS 2021 Workshop on Robotics for people</title>
       <link>https://muvvalakaran.github.io/post/2021-05-01-rss21_paper/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
@@ -93,11 +178,32 @@
     </item>
     
     <item>
+      <title>Human-Aware Strategy Synthesis for Robotic Manipulators Using Regret Games</title>
+      <link>https://muvvalakaran.github.io/publication/ms_thesis/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/publication/ms_thesis/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Successfully Defended my thesis. For More info click here.</title>
       <link>https://muvvalakaran.github.io/post/2021-04-01-ms_defense/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://muvvalakaran.github.io/post/2021-04-01-ms_defense/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;: From Autonomous cars, factories to households, we envision a future where robots work safely and efficiently alongside humans. While robots today thrive in industrial and lab settings, we must develop theories and algorithms that will enable the transition of these systems from robot-centric workspaces to the real-world. Hence, we want robotic systems not only to observe and react to the changes in the environment but also guarantee completion of the given task while ensuring safe execution. For robots operating in the presence of humans with non-contradicting goals, it is crucial to work together to save resources, time, and ensuring that everyone achieves their goals. Combining these objectives is challenging given the complexity of the tasks and various ways the system could interact with the environment.&lt;/p&gt;
+&lt;p&gt;This thesis blends different theories developed by the Formal Methods, Game Theory, and the Human-Robot Interaction community to develop a Regret Minimizing Framework (RMF) that addresses the above problems. While previous work using these approaches has assumed the human to be either purely adversarial or probabilistic, these assumptions are very conservative and eliminate the possibility of cooperation. This thesis proposes a notion of regret to synthesize high-level strategies for the robot that explores possible cooperation with the human while ensuring completion of the given task within some user-defined bound on the total energy spent by the robot. This work analyzes and implements various notions of regret and reasons about their emergent behaviors. An end-to-end synthesis toolbox is developed to compute regret minimizing strategies, which implements various optimization techniques to help scale the algorithms to the robotics domain and illustrate the efficacy of the optimal strategies through various case studies.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -114,6 +220,16 @@
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://muvvalakaran.github.io/post/2020-12-05-ieee-cir/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative Reactive Synthesis for Manipulators via Games</title>
+      <link>https://muvvalakaran.github.io/talks/cu_gearrs/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/talks/cu_gearrs/</guid>
+      <description>&lt;p&gt;Manipulators are becoming ubiquitous from industries to commercial applications. As such these robots are either manually operated or autonomous in highly restricted and well-defined environments and are extremely susceptible to changes in the environment - due to human intervention or any other external factor. This study focuses on developing a strategy for the robot to achieve a complex task. The synthesized strategy generates controllers for the robot in reaction to human interventions that cause changes in the environment . This
+strategy also accounts for the resource constraints of the robot such as time and energy. Using methods derived from formal methods and games we can then define quantitative safety-critical guarantees with optimal strategies.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -243,9 +359,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Example Project</title>
-      <link>https://muvvalakaran.github.io/project/example/</link>
+      <link>https://muvvalakaran.github.io/projects/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://muvvalakaran.github.io/project/example/</guid>
+      <guid>https://muvvalakaran.github.io/projects/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -255,29 +371,18 @@ $$&lt;/p&gt;
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://muvvalakaran.github.io/publication/example/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://muvvalakaran.github.io/publication/example/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://muvvalakaran.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://muvvalakaran.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://muvvalakaran.github.io/publication/example/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/publication/example/</guid>
       <description></description>
     </item>
     
