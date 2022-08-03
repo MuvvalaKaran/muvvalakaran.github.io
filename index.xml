@@ -33,6 +33,16 @@
     </item>
     
     <item>
+      <title>One paper accepted for presentation at IEEE Aerospace Conference, 2023. Click Here for details!</title>
+      <link>https://muvvalakaran.github.io/post/2022-08-02-ieee-aeroconf23/</link>
+      <pubDate>Tue, 02 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/post/2022-08-02-ieee-aeroconf23/</guid>
+      <description>&lt;p&gt;Paper Title: REASON-RECOURSE Software for Science Operations of Autonomous Robotic Landers&lt;/p&gt;
+&lt;!-- Project Name: NASA COLDTech --&gt;
+&lt;!-- Abstract: Future planetary exploration missions on the surface of distant bodies such as Europa or Enceladus can’t rely on human-in-the-loop operations due to time delays, dynamic environments, limited mission lifetimes, as well as the many unknown unknowns inherent in the exploration of such environments. Thus our robotic explorers must be capable of autonomous operations to ensure continued operations and to try to maximize the amount and quality of the scientific data gathered from each mission. To advance our technology toward this goal, we are developing a system to maximize the science obtained by a robotic lander and delivered to scientists on Earth with minimal asynchronous human interaction. The autonomy architecture consists of two main components: REASON (Robust Exploration with Autonomous Science on-board) and RECOURSE (Ranked Evaluation of Contingent Opportunities for Uninterrupted Remote Science Exploration) for efficient and useful scientific communication between scientists and robot. The key advantage to this design is in its ability to continuously operate and adapt despite the constraints of high-latency, low-bandwith communications and an uncertain environment which today would require ground-in-the-loop operations. This paper presents the initial version of the REASON-RECOURSE system. Details of the implementation of the scientist interface and interaction with the ground software - RECOURSE - and the on-board robotic planning software - REASON - are given. Demonstration of the operation using NASA&#39;s OceanWATERS testbed will be shown. --&gt;</description>
+    </item>
+    
+    <item>
       <title>An extended abstract got accepted at RSS 2022 Workshop on Risk-aware Decision Making;</title>
       <link>https://muvvalakaran.github.io/post/2022-06-01_rss22_worshop/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
@@ -60,10 +70,10 @@
     </item>
     
     <item>
-      <title>Safety Guarantees for Neural Network Dynamic Systems via Stochastic Barrier Functions </title>
-      <link>https://muvvalakaran.github.io/publication/nips_22_safe_autonomy_w_cbfs/</link>
+      <title>Safety Guarantees for Neural Network Dynamic Systems via Stochastic Barrier Functions (Under Review)</title>
+      <link>https://muvvalakaran.github.io/publication/conf_22_safe_autonomy_w_cbfs/</link>
       <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://muvvalakaran.github.io/publication/nips_22_safe_autonomy_w_cbfs/</guid>
+      <guid>https://muvvalakaran.github.io/publication/conf_22_safe_autonomy_w_cbfs/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
