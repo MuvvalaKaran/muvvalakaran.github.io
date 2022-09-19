@@ -5,7 +5,7 @@
     <link>https://muvvalakaran.github.io/publication/</link>
       <atom:link href="https://muvvalakaran.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muvvalakaran.github.io/media/icon_hu89548756f618d3133e4bd8d0014fa73c_37105_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Safety Guarantees for Neural Network Dynamic Systems via Stochastic Barrier Functions (Under Review)</title>
-      <link>https://muvvalakaran.github.io/publication/conf_22_safe_autonomy_w_cbfs/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://muvvalakaran.github.io/publication/conf_22_safe_autonomy_w_cbfs/</guid>
+      <title>Safety Guarantees for Neural Network Dynamic Systems via Stochastic Barrier Functions (accepted NeurIPS 22)</title>
+      <link>https://muvvalakaran.github.io/publication/nips_22_safe_autonomy_w_cbfs/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/publication/nips_22_safe_autonomy_w_cbfs/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
