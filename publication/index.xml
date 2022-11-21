@@ -5,7 +5,7 @@
     <link>https://muvvalakaran.github.io/publication/</link>
       <atom:link href="https://muvvalakaran.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 15 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muvvalakaran.github.io/media/icon_hu89548756f618d3133e4bd8d0014fa73c_37105_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,21 +13,47 @@
     </image>
     
     <item>
-      <title>Safety Guarantees for Neural Network Dynamic Systems via Stochastic Barrier Functions (accepted NeurIPS 22)</title>
-      <link>https://muvvalakaran.github.io/publication/nips_22_safe_autonomy_w_cbfs/</link>
-      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>https://muvvalakaran.github.io/publication/nips_22_safe_autonomy_w_cbfs/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>REASON-RECOURSE Software for Science Operations of Autonomous Robotic Landers (accepted IEEE AeroConf 23)</title>
+      <link>https://muvvalakaran.github.io/publication/coldtech_ieee_aero_2023/</link>
+      <pubDate>Sat, 15 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/publication/coldtech_ieee_aero_2023/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+ --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Safety Guarantees for Neural Network Dynamic Systems via Stochastic Barrier Functions (accepted NeurIPS 22)</title>
+      <link>https://muvvalakaran.github.io/publication/nips_22_safe_autonomy_w_cbfs/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/publication/nips_22_safe_autonomy_w_cbfs/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
@@ -59,17 +85,21 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://muvvalakaran.github.io/publication/coldtech_ieee_aero_2022/</link>
       <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
       <guid>https://muvvalakaran.github.io/publication/coldtech_ieee_aero_2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
