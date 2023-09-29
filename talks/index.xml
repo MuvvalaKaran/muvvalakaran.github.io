@@ -5,12 +5,22 @@
     <link>https://muvvalakaran.github.io/talks/</link>
       <atom:link href="https://muvvalakaran.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://muvvalakaran.github.io/media/icon_hu89548756f618d3133e4bd8d0014fa73c_37105_512x512_fill_lanczos_center_3.png</url>
       <title>Talks</title>
       <link>https://muvvalakaran.github.io/talks/</link>
     </image>
+    
+    <item>
+      <title>Efficient Symbolic Approaches for Quantitative Reactive Synthesis with Finite Tasks</title>
+      <link>https://muvvalakaran.github.io/talks/lapis23_presentation/</link>
+      <pubDate>Wed, 26 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://muvvalakaran.github.io/talks/lapis23_presentation/</guid>
+      <description>&lt;p&gt;In this talk, we will introduce efficient symbolic algorithms for quantitative reactive synthesis using Algebraic Decision Diagrams (ADDs). We consider resource-constrained robotic manipulators that need to interact with a human to achieve a complex task expressed in linear temporal logic over finite trace (LTLf). Our framework generates reactive strategies that not only guarantee task completion but also seek cooperation with the human when possible.&lt;/p&gt;
+&lt;p&gt;We model the interaction as a two-player game and consider regret-minimizing strategies to encourage cooperation. We use symbolic representation of the game to enable scalability. For synthesis, we first introduce value iteration algorithms for such games with min-max objectives. Then, we extend our method to the regret-minimizing objectives. Our benchmarks reveal that our symbolic framework not only significantly improves computation time (up to an order of magnitude) but also can scale up to much larger instances of manipulation problems with up to 2x the number of objects and locations than the state of the art.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Regret games for manipulation reactive synthesis</title>
